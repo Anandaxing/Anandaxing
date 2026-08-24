@@ -13,10 +13,10 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Name of primary project]**
-- 🌱 I’m currently learning **[Technology or Framework]**
-- 💬 Ask me about **[Your areas of expertise, e.g., React, System Design, DevOps]**
-- 📫 How to reach me: **[Your Email]** or DM on **[Preferred Social Media]**
+- 🎓 I’m currently working on **Universiti Teknologi PETRONAS 🇲🇾**
+- 🌱 I’m currently learning about **Software Engineering & Cloud Computing**
+- 💬 Ask me about **Javascript/Typescript, React, Next, TailwindCSS**
+- 📫 How to reach me: **<a href="mailto:ananda.xing12@gmail.com">ananda.xing12@gmail.com</a>** or DM on **[Preferred Social Media]**
 ---
   
 
