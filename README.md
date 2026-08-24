@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <b>Website builder 🌐 | Software Engineer 📱 | Computer Science Student 🎓</b>
+</p>
+
+<p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/html-121212?style=for-the-badge&logo=html5">
   <img alt="Static Badge" src="https://img.shields.io/badge/css-121212?style=for-the-badge&logo=css">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-121212?style=for-the-badge&logo=javascript">
