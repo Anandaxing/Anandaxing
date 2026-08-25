@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Anandaxing&utm_content=line">
     <img
-      src="https://render.gitanimals.org/lines/Anandaxing"
+      src="https://render.gitanimals.org/lines/Anandaxing?pet-id=879613603685185622"
       width="600"
-      height="120"
+      height="200"
     />
   </a>
 </p>
