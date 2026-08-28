@@ -32,5 +32,5 @@
 - 🎓 I’m currently studying at **Universiti Teknologi PETRONAS 🇲🇾**
 - 🌱 I’m currently learning about **Software Engineering & Cloud Computing ☁️**
 - 💬 Ask me about **`Javascript/Typescript`, `React`, `NextJS`, `TailwindCSS`**
-- 📫 How to reach me: **<a href="mailto:ananda.xing12@gmail.com">ananda.xing12@gmail.com</a>** or DM on **Instagram <a href="https://www.instagram.com/anand.a2007/?hl=en">@anand.a2007</a>**
+- 📫 How to reach me: **<a href="mailto:ananda.adiputra99@gmail.com">ananda.adiputra99@gmail.com</a>** or DM on **Instagram <a href="https://www.instagram.com/anand.a2007/?hl=en">@anand.a2007</a>**
 ---
