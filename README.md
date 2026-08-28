@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello there! 🇮🇩
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&color=FFF&vCenter=true&&width=500&height=70&duration=5000&lines=👋+Hi+There!+🇮🇩;+👋+Welcome+To+My+Page!+🇮🇩;" /> 
 </h1>
 
 <p align="center">
