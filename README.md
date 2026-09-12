@@ -23,9 +23,17 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-121212?style=for-the-badge&logo=typescript">
   <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-121212?style=for-the-badge&logo=node.js">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactjs-121212?style=for-the-badge&logo=react">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-121212?style=for-the-badge&logo=next.js">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-121212?style=for-the-badge&logo=tailwindcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tanstack start-121212?style=for-the-badge&logo=tanstack">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vite-121212?style=for-the-badge&logo=vite">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sql-121212?style=for-the-badge&logo=postgresql">
   <img alt="Static Badge" src="https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-121212?style=for-the-badge&logo=github">
+  <img alt="Static Badge" src="https://img.shields.io/badge/supabase-121212?style=for-the-badge&logo=supabase">
+  <img alt="Static Badge" src="https://img.shields.io/badge/turso-121212?style=for-the-badge&logo=turso">
+  <img alt="Static Badge" src="https://img.shields.io/badge/netlify-121212?style=for-the-badge&logo=netlify">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vercel-121212?style=for-the-badge&logo=vercel">
 </p>
 
 ## 🚀 About Me
