@@ -34,6 +34,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/turso-121212?style=for-the-badge&logo=turso">
   <img alt="Static Badge" src="https://img.shields.io/badge/netlify-121212?style=for-the-badge&logo=netlify">
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-121212?style=for-the-badge&logo=vercel">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-121212?style=for-the-badge&logo=docker">
 </p>
 
 ## 🚀 About Me
