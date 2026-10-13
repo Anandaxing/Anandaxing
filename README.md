@@ -43,3 +43,8 @@
 - 💬 Ask me about **`Javascript/Typescript`, `React`, `NextJS`, `TailwindCSS`**
 - 📫 How to reach me: **<a href="mailto:ananda.adiputra99@gmail.com">ananda.adiputra99@gmail.com</a>** or DM on **Instagram <a href="https://www.instagram.com/anand.a2007/?hl=en">@anand.a2007</a>**
 ---
+
+## 🔥 My Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anandaxing&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api?username=Anandaxing&show_icons=true&theme=dark&bg_color=000000)
+
+---
