@@ -25,6 +25,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/reactjs-121212?style=for-the-badge&logo=react">
   <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-121212?style=for-the-badge&logo=next.js">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-121212?style=for-the-badge&logo=tailwindcss">
+  <img alt="Static Badge" src="https://img.shields.io/badge/shadcn_ui-121212?style=for-the-badge&logo=shadcnui">
   <img alt="Static Badge" src="https://img.shields.io/badge/tanstack start-121212?style=for-the-badge&logo=tanstack">
   <img alt="Static Badge" src="https://img.shields.io/badge/vite-121212?style=for-the-badge&logo=vite">
   <img alt="Static Badge" src="https://img.shields.io/badge/sql-121212?style=for-the-badge&logo=postgresql">
@@ -48,3 +49,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anandaxing&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api?username=Anandaxing&show_icons=true&theme=dark&bg_color=000000)
 
 ---
+
+## 🏅 Achievements
+
+- **`Silver Medal 🥈 – Engineering Category 🛠️, Indonesia Inventors Day 🌐 | Jakarta, Indonesia 🇮🇩 | 2026`** <br>
+Collaborated with engineering students from UTP to compete in an international invention competition with participants from multiple countries.
+
