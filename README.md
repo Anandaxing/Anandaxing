@@ -22,6 +22,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-121212?style=for-the-badge&logo=javascript">
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-121212?style=for-the-badge&logo=typescript">
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=C%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-121212?style=for-the-badge&logo=python">
   <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-121212?style=for-the-badge&logo=node.js">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactjs-121212?style=for-the-badge&logo=react">
   <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-121212?style=for-the-badge&logo=next.js">
